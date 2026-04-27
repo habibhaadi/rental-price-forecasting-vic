@@ -63,3 +63,22 @@ Some areas showed strong growth purely from trend, but others stood out because 
 notebooks/
 data/
 outputs/
+```
+
+## My Contribution
+
+This project originally started as a group assignment, but this version has been cleaned up and restructured to clearly reflect my work.
+
+I was mainly responsible for:
+- building the time-series forecasting models  
+- integrating feature-based modelling using SARIMAX  
+- engineering suburb-level features  
+- analysing and interpreting the results  
+
+---
+
+## Final Note
+
+This project ended up being less about predicting rent, and more about understanding what actually drives it.
+
+That’s what made it worth building.
